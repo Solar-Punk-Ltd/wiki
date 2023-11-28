@@ -38,3 +38,10 @@ Goerli testnet not working properly, not connecting to other peers. Sepolia only
 - Get Sepolia testnet Ether from faucet: 
     - https://infura.io
     - https://sepolia-faucet.pk910.de/ (mining)
+
+- Get sBZZ on Sepolia testnet:
+    First, visit app.uniswap.org/swap and connect your Metamask wallet.
+    Of course, you need some Sepolia testnet Ethereum in your wallet.
+    If you have some, you need just click on Select token button
+    You can find sBZZ contract address here: https://sepolia.etherscan.io/token/0x543dDb01Ba47acB11de34891cD86B675F04840db, just copy - paste the address - - 0x543dDb01Ba47acB11de34891cD86B675F04840db - , then you can find the token.
+    Decide how many token do you want to buy and click on swap, confirm your transaction and wait a little bit.
