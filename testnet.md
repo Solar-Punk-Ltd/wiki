@@ -2,7 +2,7 @@
 
 ## Developer solution (Go):
 
-- Download from https://github.com/ethersphere/bee (Not the release)
+- Download bee.zip from https://drive.google.com/drive/u/0/folders/1RMqryKcYxUmZZeJnCi0hlG5AERthp5a6 
 - Open bee/cmd/bee
 - Run: `go run . start printconfig`
 - Copy-paste the content to a new file and save as `bee-testnet.yaml`
@@ -35,6 +35,6 @@ Goerli testnet not working properly, not connecting to other peers. Sepolia only
 
 - Be aware of the naming and placing of config files and data-dir. When changing the config file new overlay address is generated, so data-dir should be backuped and deleted, otherwise bee will hangup with overlay address mismatch.
 
-- Get Sepolia testnet faucet: 
+- Get Sepolia testnet Ether from faucet: 
     - https://infura.io
     - https://sepolia-faucet.pk910.de/ (mining)
